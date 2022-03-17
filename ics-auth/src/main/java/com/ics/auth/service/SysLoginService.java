@@ -1,8 +1,5 @@
 package com.ics.auth.service;
 
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
-
 import com.ics.common.core.constant.Constants;
 import com.ics.common.core.constant.UserConstants;
 import com.ics.common.core.domain.R;
@@ -14,6 +11,7 @@ import com.ics.system.api.RemoteLogService;
 import com.ics.system.api.RemoteUserService;
 import com.ics.system.api.domain.SysUser;
 import com.ics.system.api.model.LoginUser;
+import org.springframework.stereotype.Component;
 
 /**
  * 登录校验方法

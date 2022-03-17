@@ -1,10 +1,28 @@
 Spring Boot Version: ${spring-boot.version}
 Spring Application Name: ${spring.application.name}
-   _           _   _     _       _            __ _ _      
-  (_)         | | | |   (_)     | |          / _(_) |     
-   _  ___  ___| |_| |__  _ _ __ | | ________| |_ _| | ___ 
-  | |/ _ \/ _ \ __| '_ \| | '_ \| |/ /______|  _| | |/ _ \
-  | |  __/  __/ |_| | | | | | | |   <       | | | | |  __/
-  | |\___|\___|\__|_| |_|_|_| |_|_|\_\      |_| |_|_|\___|
- _/ |                                                     
-|__/                                                      
+
+
+
+IIIIIIIIII        CCCCCCCCCCCCC   SSSSSSSSSSSSSSS
+I::::::::I     CCC::::::::::::C SS:::::::::::::::S
+I::::::::I   CC:::::::::::::::CS:::::SSSSSS::::::S
+II::::::II  C:::::CCCCCCCC::::CS:::::S     SSSSSSS
+  I::::I   C:::::C       CCCCCCS:::::S
+  I::::I  C:::::C              S:::::S
+  I::::I  C:::::C               S::::SSSS
+  I::::I  C:::::C                SS::::::SSSSS
+  I::::I  C:::::C                  SSS::::::::SS
+  I::::I  C:::::C                     SSSSSS::::S
+  I::::I  C:::::C                          S:::::S
+  I::::I   C:::::C       CCCCCC            S:::::S
+II::::::II  C:::::CCCCCCCC::::CSSSSSSS     S:::::S
+I::::::::I   CC:::::::::::::::CS::::::SSSSSS:::::S
+I::::::::I     CCC::::::::::::CS:::::::::::::::SS
+IIIIIIIIII        CCCCCCCCCCCCC SSSSSSSSSSSSSSS
+
+
+
+
+
+
+

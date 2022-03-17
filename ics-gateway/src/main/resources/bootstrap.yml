@@ -16,14 +16,14 @@ spring:
     nacos:
       discovery:
         # 服务注册地址
-        server-addr: 10.50.133.34:8848
+        server-addr: 192.168.8.100:8848
         #命名空间
-        namespace: test
+        namespace: ics
       config:
         # 配置中心地址
-        server-addr: 10.50.133.34:8848
+        server-addr: 192.168.8.100:8848
         #命名空间
-        namespace: test
+        namespace: ics
         # 配置文件格式
         file-extension: yml
         # 共享配置
@@ -39,7 +39,7 @@ spring:
       datasource:
         ds1:
           nacos:
-            server-addr: 10.50.133.34:8848
+            server-addr: 192.168.8.100:8848
             dataId: sentinel-ics-gateway
             groupId: DEFAULT_GROUP
             data-type: json

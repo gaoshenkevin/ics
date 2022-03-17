@@ -15,11 +15,6 @@
     </description>
     
     <dependencies>
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-loadbalancer</artifactId>
-        </dependency>
-
         <!-- SpringCloud Ailibaba Nacos -->
         <dependency>
             <groupId>com.alibaba.cloud</groupId>
@@ -61,7 +56,12 @@
             <groupId>com.ics</groupId>
             <artifactId>ics-common-security</artifactId>
         </dependency>
-        
+
+        <dependency>
+            <groupId>com.ics</groupId>
+            <artifactId>ics-common-datasource</artifactId>
+        </dependency>
+
     </dependencies>
 	
     <build>

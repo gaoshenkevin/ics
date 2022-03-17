@@ -4,6 +4,7 @@ import com.ics.common.security.annotation.EnableCustomConfig;
 import com.ics.common.security.annotation.EnableRyFeignClients;
 import com.ics.common.swagger.annotation.EnableCustomSwagger3;
 import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.SpringCloudApplication;
 
 /**
@@ -14,7 +15,7 @@ import org.springframework.cloud.client.SpringCloudApplication;
 @EnableCustomConfig
 @EnableCustomSwagger3
 @EnableRyFeignClients
-@SpringCloudApplication
+@SpringBootApplication
 public class IcsSystemApplication
 {
     public static void main(String[] args)
